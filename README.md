@@ -24,6 +24,12 @@
 
 </p>
 
+###
+##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srivatsav09&theme=algolia)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Srivatsav09&show_icons=true&theme=algolia)
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7f94d329f7bbbaf3359f2c012281fe87967510f4b5148c525daaf34b92a7cb73/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d53726976617473617630392673686f775f69636f6e733d74727565267468656d653d616c676f6c6961"><img align="left" src="https://camo.githubusercontent.com/7f94d329f7bbbaf3359f2c012281fe87967510f4b5148c525daaf34b92a7cb73/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d53726976617473617630392673686f775f69636f6e733d74727565267468656d653d616c676f6c6961" alt="adityasai2004" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivatsav09&amp;show_icons=true&amp;layout=compact&amp;theme=algoli" style="max-width: 100%;"></a></p>
 
 
 <!--
