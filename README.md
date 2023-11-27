@@ -1,6 +1,6 @@
 <h1 align=center> Hi there 👋 My name is Srivatsav!</h1>
 
-- currently working on full stack with frappe
+- currently working on full stack with frappe and django
 - figuring my way out in data analytics
 
 ##
