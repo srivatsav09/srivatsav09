@@ -1,7 +1,7 @@
 <h1 align=center> Hi there 👋 My name is Srivatsav!</h1>
 
-- currently working on full stack with frappe and django
-- figuring my way out in data analytics
+- currently working on Agentic AI systems and Neural Networks
+- figuring my way out in Data Engineering
 
 ##
 
